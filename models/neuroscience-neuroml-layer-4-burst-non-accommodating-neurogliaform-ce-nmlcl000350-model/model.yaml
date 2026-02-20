@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000350
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000350
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_4_burst_non_accommodating_neurogliaform_ce_nmlcl000350_model:Layer4BurstNonAccommodatingNeurogliaformCeNmlcl000350Model
   init_kwargs:
     model_path: data/render_xml_file.nml

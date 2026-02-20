@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000208
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000208
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_2_3_burst_irregular_double_bouquet_cell_2_nmlcl000208_model:Layer23BurstIrregularDoubleBouquetCell2Nmlcl000208Model
   init_kwargs:
     model_path: data/render_xml_file.nml

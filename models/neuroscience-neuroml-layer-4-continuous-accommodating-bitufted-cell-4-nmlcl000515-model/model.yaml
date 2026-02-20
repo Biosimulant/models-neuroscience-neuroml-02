@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000515
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000515
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_4_continuous_accommodating_bitufted_cell_4_nmlcl000515_model:Layer4ContinuousAccommodatingBituftedCell4Nmlcl000515Model
   init_kwargs:
     model_path: data/render_xml_file.nml

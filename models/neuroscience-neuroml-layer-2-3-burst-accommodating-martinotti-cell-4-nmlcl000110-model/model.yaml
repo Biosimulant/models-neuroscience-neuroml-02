@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000110
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000110
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_2_3_burst_accommodating_martinotti_cell_4_nmlcl000110_model:Layer23BurstAccommodatingMartinottiCell4Nmlcl000110Model
   init_kwargs:
     model_path: data/render_xml_file.nml

@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000205
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000205
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_2_3_burst_irregular_bitufted_cell_4_nmlcl000205_model:Layer23BurstIrregularBituftedCell4Nmlcl000205Model
   init_kwargs:
     model_path: data/render_xml_file.nml

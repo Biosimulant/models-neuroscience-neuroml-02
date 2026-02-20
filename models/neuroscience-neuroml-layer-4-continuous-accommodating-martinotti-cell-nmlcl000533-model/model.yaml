@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000533
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000533
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_4_continuous_accommodating_martinotti_cell_nmlcl000533_model:Layer4ContinuousAccommodatingMartinottiCellNmlcl000533Model
   init_kwargs:
     model_path: data/render_xml_file.nml

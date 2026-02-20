@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000472
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000472
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_2_3_continuous_accommodating_chandelier_ce_nmlcl000472_model:Layer23ContinuousAccommodatingChandelierCeNmlcl000472Model
   init_kwargs:
     model_path: data/render_xml_file.nml

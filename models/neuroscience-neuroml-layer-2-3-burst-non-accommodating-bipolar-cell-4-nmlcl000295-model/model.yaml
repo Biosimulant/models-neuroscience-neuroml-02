@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000295
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000295
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_2_3_burst_non_accommodating_bipolar_cell_4_nmlcl000295_model:Layer23BurstNonAccommodatingBipolarCell4Nmlcl000295Model
   init_kwargs:
     model_path: data/render_xml_file.nml
