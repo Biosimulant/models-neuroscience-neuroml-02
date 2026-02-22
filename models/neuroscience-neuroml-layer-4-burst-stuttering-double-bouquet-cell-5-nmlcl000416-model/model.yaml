@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer4BurstStutteringDoubleBouquetCell5Nmlcl000416Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer4Burst Stuttering Double Bouquet Cell5Nmlcl000416Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL000416. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:
 - neuroscience

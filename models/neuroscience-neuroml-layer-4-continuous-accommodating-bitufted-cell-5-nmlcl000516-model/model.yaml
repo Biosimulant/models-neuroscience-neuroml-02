@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer4ContinuousAccommodatingBituftedCell5Nmlcl000516Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer4Continuous Accommodating Bitufted Cell5Nmlcl000516Model models core biological dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000516), focused on neuroscience, neurom. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:
 - neuroscience

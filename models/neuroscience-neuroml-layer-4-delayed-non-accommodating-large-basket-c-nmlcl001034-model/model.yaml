@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer4DelayedNonAccommodatingLargeBasketCNmlcl001034Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer4Delayed Non Accommodating Large Basket CNmlcl001034Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL001034. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:
 - neuroscience

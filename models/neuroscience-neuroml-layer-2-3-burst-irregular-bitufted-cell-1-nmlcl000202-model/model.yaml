@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer23BurstIrregularBituftedCell1Nmlcl000202Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer23Burst Irregular Bitufted Cell1Nmlcl000202Model captures neuroscience layer 2 3 burst irregular behavior in the context of neuroscience, neuroml, neuroml_db using a neuroml_db-sourced OTHER m. When you run it, you can observe state and evaluate how the modeled system changes across runs."
 standard: other
 tags:
 - neuroscience

@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer4ContinuousAccommodatingBipolarCell3Nmlcl000509Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer4Continuous Accommodating Bipolar Cell3Nmlcl000509Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL000509. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:
 - neuroscience

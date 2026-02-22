@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer4ContinuousNonAccommodatingNestBasketNmlcl000850Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer4Continuous Non Accommodating Nest Basket Nmlcl000850Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL000850. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:
 - neuroscience

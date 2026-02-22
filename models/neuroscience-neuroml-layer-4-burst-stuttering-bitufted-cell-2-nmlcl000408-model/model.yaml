@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer4BurstStutteringBituftedCell2Nmlcl000408Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer4Burst Stuttering Bitufted Cell2Nmlcl000408Model models neuroscience layer 4 burst stuttering bitufted dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000408), focused. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:
 - neuroscience

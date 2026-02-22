@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer4BurstAccommodatingBipolarCell4Nmlcl000120Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer4Burst Accommodating Bipolar Cell4Nmlcl000120Model models neuroscience layer 4 burst accommodating bipolar dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000120), focu. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:
 - neuroscience

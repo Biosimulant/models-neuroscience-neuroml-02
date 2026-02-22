@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer23ContinuousStutteringNeurogliaformCeNmlcl000947Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer23Continuous Stuttering Neurogliaform Ce Nmlcl000947Model models core biological dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000947), focused on neuroscience, neuro. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:
 - neuroscience

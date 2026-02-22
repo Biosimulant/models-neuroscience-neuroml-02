@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer23DelayedStutteringBipolarCell2Nmlcl001083Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer23Delayed Stuttering Bipolar Cell2Nmlcl001083Model represents neuroscience layer 2 3 delayed stuttering mechanisms from neuroml_db reference neuroml_db:NMLCL001083. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:
 - neuroscience

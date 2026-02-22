@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer4BurstIrregularBituftedCell2Nmlcl000218Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer4Burst Irregular Bitufted Cell2Nmlcl000218Model models neuroscience layer 4 burst irregular bitufted dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000218), focused on. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:
 - neuroscience
