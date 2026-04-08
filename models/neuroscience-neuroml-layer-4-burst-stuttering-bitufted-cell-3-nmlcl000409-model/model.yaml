@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer4BurstStutteringBituftedCell3Nmlcl000409Model'
+title: "Layer 4 Burst Stuttering Bitufted Cell (3)"
 description: "Neuroscience Layer4Burst Stuttering Bitufted Cell3Nmlcl000409Model captures neuroscience layer 4 burst stuttering bitufted behavior in the context of neuroscience, neuroml, neuroml_db using a neuroml_db-sourced. When you run it, you can observe state and evaluate how the modeled system changes across runs."
 standard: other
 tags:

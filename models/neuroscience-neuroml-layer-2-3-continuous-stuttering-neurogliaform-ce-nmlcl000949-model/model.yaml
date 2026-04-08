@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer23ContinuousStutteringNeurogliaformCeNmlcl000949Model'
+title: "Layer 2/3 Continuous Stuttering Neurogliaform Cell (3)"
 description: "Neuroscience Layer23Continuous Stuttering Neurogliaform Ce Nmlcl000949Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL000949. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:

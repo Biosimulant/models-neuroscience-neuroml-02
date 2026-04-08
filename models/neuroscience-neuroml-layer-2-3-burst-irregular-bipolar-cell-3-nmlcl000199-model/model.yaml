@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer23BurstIrregularBipolarCell3Nmlcl000199Model'
+title: "Layer 2/3 Burst Irregular Bipolar Cell (3)"
 description: "Neuroscience Layer23Burst Irregular Bipolar Cell3Nmlcl000199Model models neuroscience layer 2 3 burst irregular dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000199), focused on neuros. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:

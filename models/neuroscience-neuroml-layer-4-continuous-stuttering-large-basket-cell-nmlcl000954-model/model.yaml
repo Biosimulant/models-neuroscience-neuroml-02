@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer4ContinuousStutteringLargeBasketCellNmlcl000954Model'
+title: "Layer 4 Continuous Stuttering Large Basket Cell (3)"
 description: "Neuroscience Layer4Continuous Stuttering Large Basket Cell Nmlcl000954Model models core biological dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000954), focused on neuroscience, neuro. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:
