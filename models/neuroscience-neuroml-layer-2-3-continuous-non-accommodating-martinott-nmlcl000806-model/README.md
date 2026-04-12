@@ -16,9 +16,8 @@ This model was auto-generated from the neuroml_db repository.
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-neuroml-layer-2-3-continuous-non-accommodating-martinott-nmlcl000806-model
     alias: model
-    manifest_path: models/neuroscience-neuroml-layer-2-3-continuous-non-accommodating-martinott-nmlcl000806-model/model.yaml
 ```
 
 ## Tags

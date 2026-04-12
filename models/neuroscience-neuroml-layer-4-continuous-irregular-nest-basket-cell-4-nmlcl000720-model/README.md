@@ -16,9 +16,8 @@ This model was auto-generated from the neuroml_db repository.
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-neuroml-layer-4-continuous-irregular-nest-basket-cell-4-nmlcl000720-model
     alias: model
-    manifest_path: models/neuroscience-neuroml-layer-4-continuous-irregular-nest-basket-cell-4-nmlcl000720-model/model.yaml
 ```
 
 ## Tags

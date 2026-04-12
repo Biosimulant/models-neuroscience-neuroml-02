@@ -16,9 +16,8 @@ This model was auto-generated from the neuroml_db repository.
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-neuroml-layer-2-3-burst-non-accommodating-martinotti-cel-nmlcl000316-model
     alias: model
-    manifest_path: models/neuroscience-neuroml-layer-2-3-burst-non-accommodating-martinotti-cel-nmlcl000316-model/model.yaml
 ```
 
 ## Tags
